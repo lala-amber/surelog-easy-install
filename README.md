@@ -1,0 +1,1 @@
+# surelog-easy-install
