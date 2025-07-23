@@ -1,4 +1,16 @@
-## 📚 目录
+<p align="center">
+  <a href="https://github.com/lala-amber/surelog-easy-install/stargazers">
+    <img src="https://img.shields.io/github/stars/lala-amber/surelog-easy-install?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/lala-amber/surelog-easy-install/network/members">
+    <img src="https://img.shields.io/github/forks/lala-amber/surelog-easy-install?style=social" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/lala-amber/surelog-easy-install/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/lala-amber/surelog-easy-install" alt="License">
+  </a>
+</p>
+
+#  目录
 
 - [什么是 Surelog？](#什么是-surelog)
 - [典型应用](#典型应用)
