@@ -19,6 +19,7 @@
 - [快速使用](#快速使用)
 - [示例命令](#示例命令)
 - [鸣谢](#鸣谢)
+- [支持与交流](#支持与交流)
 - [附录1：安装过程](#附录1安装过程)
 - [附录2:安装日志](#附录2安装日志)
 
@@ -103,6 +104,15 @@ cd Surelog
 
 ## 鸣谢
 本脚本致力于降低 Surelog 在中国大陆或实验环境中的部署难度。感谢[chipsalliance/Surelog](https://github.com/chipsalliance/Surelog/) 的开源贡献，使得硬件设计工具生态不断向前发展。
+
+## 支持与交流
+
+如果本项目对你有帮助，欢迎点击 [⭐Star](https://github.com/lala-amber/surelog-easy-install/) 支持一下！
+
+你的 star 是我持续优化和维护脚本的动力 💪  
+也欢迎提 issue 或 PR 一起完善脚本，共建开源工具链生态！
+
+🔗 GitHub 项目地址：[https://github.com/lala-amber/surelog-easy-install](https://github.com/lala-amber/surelog-easy-install/)
 
 # 附录1：安装过程
 
